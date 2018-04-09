@@ -10,3 +10,4 @@
 * Merging 2 dictionaries with a single expression
 * Using named tuples as an alternative to defining a class
 * Sort a dictionary by value
+* Measuring time it takes to execute line of code
