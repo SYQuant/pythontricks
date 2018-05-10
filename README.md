@@ -14,3 +14,4 @@
 * One-liner with a Python shorthand for in-place value swapping
 * Using functions as a variable, list(data structure), and its arguments
 * Using dictionaries as switch/case statements (different from traditional if, elif, else statements)
+* Python list comprehension - 2 different types
