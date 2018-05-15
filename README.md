@@ -17,3 +17,4 @@
 * Python list comprehension - 2 different types
 * Python 3.5+ type annotations
 * Python list slice syntax
+* Using collections package to find the most common elements in an iterable
