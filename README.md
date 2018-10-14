@@ -1,4 +1,4 @@
-# Pythontricks :+1
+# Pythontricks :
 ## You will find various jupyter notebooks in this repository consisting of python tricks I have found
 
 *Current Python tricks*
